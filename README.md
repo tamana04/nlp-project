@@ -79,16 +79,9 @@ Logistic Regression gave better accuracy compared to Naive Bayes in this project
 
 📊 Model Performance
 
-Accuracy achieved: ~80%+
+Accuracy achieved: ~84%+
 
 Model performs well in classifying positive and negative reviews.
-
-🚀 How to Run the Project
-# Clone the repository
-git clone https://github.com/your-username/kindle-review-nlp.git
-
-# Navigate to the project folder
-cd kindle-review-nlp
 
 # Install dependencies
 pip install -r requirements.txt
@@ -122,5 +115,5 @@ Add web app using Flask / Streamlit
 
 👤 Author
 
-Tamana
+Tamanna
 Aspiring Data Scientist | Machine Learning Enthusiast
